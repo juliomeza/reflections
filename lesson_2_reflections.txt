@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+I hidden folder called .git is created. I need to do it to store all changes.
