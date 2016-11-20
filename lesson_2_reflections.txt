@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 I hidden folder called .git is created. I need to do it to store all changes.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area if where I stored the files that I want to commit. Repository is where the commit files goes after each commit.
+
